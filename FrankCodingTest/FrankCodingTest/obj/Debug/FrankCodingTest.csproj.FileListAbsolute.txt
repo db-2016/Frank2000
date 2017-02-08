@@ -1,0 +1,8 @@
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\bin\Debug\FrankCodingTest.exe.config
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\bin\Debug\FrankCodingTest.exe
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\bin\Debug\FrankCodingTest.pdb
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\bin\Debug\MySql.Data.dll
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\bin\Debug\MySql.Data.xml
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\obj\Debug\FrankCodingTest.csprojResolveAssemblyReference.cache
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\obj\Debug\FrankCodingTest.exe
+c:\users\dip_b\documents\visual studio 2015\Projects\FrankCodingTest\FrankCodingTest\obj\Debug\FrankCodingTest.pdb
